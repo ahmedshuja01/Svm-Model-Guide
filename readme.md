@@ -35,12 +35,6 @@ Svm-Model-Guide/
 └── README.md                        # guide
 ```
 
-### File Descriptions
-- **practical_model_guide.ipynb**: Comprehensive Jupyter notebook with mathematical theory, implementation, and multi-kernel analysis
-- **practical_model_python_script.py**: Python script with SVM implementation and evaluation metrics
-
----
-
 ## Quick Start
 
 ### Installation & Setup
