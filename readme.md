@@ -34,7 +34,7 @@ Svm-Model-Guide/
 ├── practical_model_python_script.py # Python script with SVM implementation
 └── README.md                        # guide
 ```
-
+---
 ## Quick Start
 
 ### Installation & Setup
